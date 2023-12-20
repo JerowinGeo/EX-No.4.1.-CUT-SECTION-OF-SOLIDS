@@ -41,6 +41,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+![image](https://github.com/JerowinGeo/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/147139744/bcf86a0a-bd93-43a8-96af-7b961a72e5af)
 
 ## RESULT:
 
